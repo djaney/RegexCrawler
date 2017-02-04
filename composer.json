@@ -1,0 +1,15 @@
+{
+  "name": "djaney/regex-crawler",
+  "description": "Crawl webpage dom and text content with regex",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "thedjaney@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Djaney\\Crawler\\Regex\\": "src/"}
+  }
+}
