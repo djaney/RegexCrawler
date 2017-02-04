@@ -9,6 +9,9 @@
       "email": "thedjaney@gmail.com"
     }
   ],
+  "require": {
+    "php": ">=5.6"
+  },
   "autoload": {
     "psr-4": {"Djaney\\Crawler\\Regex\\": "src/"}
   }
